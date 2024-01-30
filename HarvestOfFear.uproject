@@ -12,6 +12,9 @@
 			]
 		},
 		{
+ Natalie's-Branch
+			"Name": "AssetPlacementEdMode",
+
 			"Name": "RigLogic",
 			"Enabled": true
 		},
@@ -36,6 +39,7 @@
 		},
 		{
 			"Name": "HairStrands",
+ main
 			"Enabled": true
 		}
 	]
